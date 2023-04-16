@@ -1,4 +1,4 @@
 # Calculadora
 
-Welliton Giori Silva
+Welliton Giori Silva |
 Giovana Oliveira Demuner
